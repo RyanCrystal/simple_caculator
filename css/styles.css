@@ -1,0 +1,69 @@
+    body{
+        		background-color: red;
+            width :20%;
+            max-width : 1200px;
+            min-width : 1000px;
+            margin : 0 auto;
+
+        }
+             .container{
+        	background-color: green;
+
+            /*width :20%;
+            max-width : 1200px;
+            min-width : 1000px;
+            margin : 0 auto;*/
+            width: 1000px;
+
+        }
+               .form{
+  
+                text-align: center;
+             }
+             .add{
+             font-size:60px;
+             text-align:center;
+             width: 80px;
+             }
+                .substract{
+             font-size:60px;
+             text-align:center;
+             }
+             .multiply{
+             font-size:60px;
+             text-align:center;
+             width:80px;
+             }
+             .divide{
+             font-size:60px;
+             text-align:center;
+             width:80px;
+             color:red;
+             }
+               .equal{
+             font-size:60px;
+             text-align:center;
+             width: 80px;
+             }
+             h1{
+                 border-style: solid;
+             }
+               .clear{
+             font-size:60px;
+             text-align:center;
+             color:green;
+             }
+              .revert{
+             font-size:60px;
+             text-align:center;
+             color:red;
+              }
+             .show{
+                 font-size:40px;
+                 width: : 1000px;
+                 border: 1px solid black;
+                 height: 1000px;
+                 //overflow: auto;
+                // width :20%;
+             }
+            
